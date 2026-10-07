@@ -39,4 +39,4 @@ This simple web application allows you to get the sunrise and sunset times for a
 
 ## See it in Action
 
-You can see the website in action [here](https://domrucker.github.io/Sunset-Sunrise/).
+You can see the website in action [here](https://Domrucker.github.io/Sunset-Sunrise/).
